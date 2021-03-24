@@ -1,0 +1,16 @@
+serverUrl: https://tableauserveraddress.com
+apiVersion: "3.5"
+site: ProjectTesting
+adminUser: email@domain.com
+adminPwd: <enter password>
+contentPermission: LockedToProject
+updateGroups:
+  - "Server Admins - Tab"
+  - "Creators - Tab"
+  - "Training Web Developers - Tab"
+projectNames:
+  - "Branch 00001 - DEMO"
+  - "Branch 00002 - DEMO"
+  - "Branch 00003 - DEMO"
+  - "Branch 00004 - DEMO"
+  - "Branch 00005 - DEMO"
